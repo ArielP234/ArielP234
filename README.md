@@ -24,9 +24,13 @@ $
 (
 )
 
+#Links
+
 [T177 Link] (https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177)
 
 [Git hub dashboard] (https://github.com/dashboard)
+
+#Experiments
 
 😊 😃
 😏 	😍	😘 
